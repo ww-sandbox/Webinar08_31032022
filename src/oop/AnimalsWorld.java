@@ -1,6 +1,8 @@
 package oop;
 
-public class App {
+import oop.Animals.Animal;
+
+public class AnimalsWorld {
     public static void main(String[] args) {
         System.out.println("### ZWIERZAK ###");
         Animal animal = new Animal();
